@@ -8,7 +8,7 @@
 Bu görevleri yaparken, yazdığın kod'un doğru çıktı verdiğini kontrol etmek için console.log'u kullanmanı öneririz.
 Bunun için cevabı direk console'a logla veya çağırdığın fonksiyondan dönen değeri console'a logla.  
 Örneğin:  console.log(ornekFonksiyon(deger1,deger2))
-*/
+*/ 
 
 /*
 Görev 1a - Ehliyet Yaşı (puanlamaya dahil değildir)
